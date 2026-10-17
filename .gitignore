@@ -50,3 +50,9 @@ JsonStorage.json
 __azurite_db_*
 __blobstorage__
 __queuestorage__
+
+# 비밀값 파일 (2026-10-17 표준 — claude-service-agent shared/standards/secrets-1password.md)
+.env*
+!.env.example
+!.env.sample
+!.env.template
